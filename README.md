@@ -1,28 +1,28 @@
-# 👋 Salut, moi c’est Olivier
+#  Salut, moi c’est Olivier
 
 🎛️ Musique / audio / création • Ableton • web créatif  
-📍 Paris
+ Paris
 
 Je fais des outils et expériences web orientés création, exploration et interfaces simples.
 
 ---
 
-## 🚀 Projets en ligne
+##  Projets en ligne
 
-### 🎴 Aria Sheet
-Une app web autour de cartes / tirages (interface ludique + logique applicative).  
+###  Aria Sheet
+Une app web pour créer des fiches de personnage pour le juex de rôle Aria
 👉 https://aria-sheet.netlify.app/
 
-### 🦸 Marvel Exploreur
-Exploration d’univers / contenu autour de Marvel (navigation + recherche).  
+###  Marvel Exploreur
+base de données des comics et personnage Marvel
 👉 https://marvel-exploreur.netlify.app/
 
-### 🌦️ Météo Newz
-Météo + infos / interface claire pour consulter rapidement.  
+###  Météo Newz
+aggregateur de flux d'information rss
 👉 https://meteo-newz.netlify.app/
 
-### 🎲 Genrenarator
-Générateur (genre / idées) pour inspiration / création.  
+###  Genrenarator
+Générateur de style de musique aléatoire
 👉 https://genrenarator.netlify.app/
 
 ---
