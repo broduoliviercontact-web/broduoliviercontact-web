@@ -20,7 +20,7 @@
 ---
 
 ## 📌 Projets à voir
-*(mets ici 3 à 6 repos que tu veux “vendre”)*
+
 
 - **[ARIA]([LIEN](https://aria-sheet.netlify.app/))** — Création de fiche de personnage pour le jeux de rôle Aria
 - **[MARVEL EXPLORER]([LIEN](https://marvel-exploreur.netlify.app/))** — Base de données des personnages et des comics Marvel
