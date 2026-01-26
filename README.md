@@ -28,7 +28,7 @@ Générateur de style de musique aléatoire
 ---
 
 ## 🧰 Tech & outils
-- **Web** : HTML / CSS / JavaScript (et/ou TypeScript selon projets)
+- **Web** : HTML / CSS / JavaScript 
 - **Créatif** : Ableton Live, synthés, audio / MAO
 - **Workflow** : Git / GitHub, déploiement (Netlify)
 
