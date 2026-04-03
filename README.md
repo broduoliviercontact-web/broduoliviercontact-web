@@ -43,7 +43,7 @@ Générateur de style de musique aléatoire
 
 ## 🤝 Me contacter
 - GitHub : https://github.com/broduoliviercontact-web
-- (Ajoute ici ton email / Insta / site si tu veux)
+- pliskain@gmail.com
 
 ---
 
