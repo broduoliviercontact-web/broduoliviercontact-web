@@ -44,7 +44,7 @@ thematiques societales, cliquetis de clapet via Web Audio API.
 | [split-flap-counter](https://github.com/broduoliviercontact-web/split-flap-counter) | Violences sexuelles enregistrees en France | 132300 | mineral-onyx |
 | [split-flap-guns](https://github.com/broduoliviercontact-web/split-flap-guns) | Victimes par armes a feu | 48117 | calm-sonnet |
 | [split-flap-hunger](https://github.com/broduoliviercontact-web/split-flap-hunger) | Personnes en insecurite alimentaire | 9M | ground-acorn |
-|| [split-flap-minors](https://github.com/broduoliviercontact-web/split-flap-minors) | Mineurs decedes en France | 76200 | fierce-ritual |
+| [split-flap-minors](https://github.com/broduoliviercontact-web/split-flap-minors) | Mineurs decedes en France | 76200 | fierce-ritual |
 
 Landing page collective : misty-anvil.
 
