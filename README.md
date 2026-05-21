@@ -1,108 +1,103 @@
-# Salut, moi c’est Olivier
+# Salut, moi c'est Olivier
 
-Musicien, bidouilleur audio, développeur créatif.  
-Je construis des outils web, des expériences interactives et des modules MIDI génératifs, avec un goût particulier pour Ableton, les systèmes modulaires, les interfaces simples et les idées musicales transformées en code.
-
----
-
-## Ce que je fais en ce moment
-
-- développement de **modules MIDI FX pour Ableton Move** via **Schwung**
-- prototypage d’outils musicaux génératifs
-- projets web autour de la **musique**, de la **météo**, de la **donnée** et de la **sonification**
-- outils d’archivage et de traitement audio
+Intermittent du spectacle depuis 2018. Musicien, bidouilleur audio, developpeur creatif.
+Je construis des outils web, des experiences interactives et des modules MIDI generatifs,
+avec un gout prononce pour Ableton, les systemes modulaires, les interfaces simples et les
+idees musicales transformees en code.
 
 ---
 
-## Nouveaux repos
+## En ce moment
 
-### Ableton Move / Schwung / MIDI FX
-
-- [`Grilles-Module-for-Schwung`](https://github.com/broduoliviercontact-web/Grilles-Module-for-Schwung)  
-  Adaptation de l’esprit de **Mutable Instruments Grids** pour Ableton Move : génération de patterns de batterie sur 3 lanes, morphing X/Y, densité indépendante, chaos, sync Move ou clock interne.
-
-- [`nRettap-Midi-FX-Euclidean-melody-generator`](https://github.com/broduoliviercontact-web/nRettap-Midi-FX-Euclidean-melody-generator)  
-  Générateur mélodique euclidien pour Move : rythmes euclidiens, mouvements mélodiques, quantification à une gamme, variations déterministes, synchronisation transport.
-
-- [`MarkovGroove-Midi-FX-A-Tiny-Markov-Engine`](https://github.com/broduoliviercontact-web/MarkovGroove-Midi-FX-A-Tiny-Markov-Engine)  
-  Petit moteur génératif basé sur des chaînes de Markov pour produire des phrases mélodiques évolutives avec contrôle de l’échelle, de la densité, du swing, du chaos et de la résolution.
-
-- [`branchages-move`](https://github.com/broduoliviercontact-web/branchages-move)  
-  Séquenceur de batterie probabiliste : base rythmique type Grids + embranchements par lane dans l’esprit de **Branches**.
-
-- [`Move-Brindille`](https://github.com/broduoliviercontact-web/Move-Brindille)  
-  Module MIDI FX probabiliste inspiré du Bernoulli gate : deux canaux de déclenchement avec probabilité configurable, pour créer des patterns minimaux, instables et musicaux.
-
-- [`marbles-move`](https://github.com/broduoliviercontact-web/marbles-move)  
-  Générateur MIDI probabiliste inspiré des idées de **Marbles**, pensé pour Move : triggers corrélés, mode mélodique ou drum, quantification, seed, Deja Vu, jitter, bias.
-
-- [`SKILL-SCHWUNG-MIDI-FX`](https://github.com/broduoliviercontact-web/SKILL-SCHWUNG-MIDI-FX)  
-  Kit de travail / documentation / structure de build pour créer des modules MIDI FX sur Schwung et Ableton Move.
+- Modules MIDI FX generatifs pour Ableton Move via l'ecosysteme Schwung (C)
+- Compteurs split-flap deployes sur here.now, thematiques societales, Web Audio API
+- Outils web concrets : courses partagees, veille musicale, meteo
 
 ---
 
-### Audio, données, archives, sonification
+## Ecosysteme Schwung MIDI FX
 
-- [`WEATHER_TEST_MAX_OSC`](https://github.com/broduoliviercontact-web/WEATHER_TEST_MAX_OSC)  
-  Toolkit météo → OSC → Max/MSP : transforme les données OpenWeather en messages exploitables dans Max pour la sonification, l’installation ou la composition générative.
+Collection de plugins MIDI generatifs pour Ableton Move, ecrits en C.
+Inspiration : Eurorack (Mutable Instruments), IDM, sequenceurs probabilistes.
 
-- [`jazz-digitizer`](https://github.com/broduoliviercontact-web/jazz-digitizer)  
-  Système Node.js pour numériser et traiter une collection de cassettes de jazz : conversion, analyse, séparation parole/musique, organisation et reporting.
+| Repo | Description |
+|------|-------------|
+| [Schwung-Midi-Fx-Acid-Gen-Acid-Pattern-Generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Acid-Gen-Acid-Pattern-Generator) | Generateur de patterns acid |
+| [DOOM-FOR-SCHWUNG](https://github.com/broduoliviercontact-web/DOOM-FOR-SCHWUNG) | Portage adapte de DOOM pour Schwung |
+| [Schwung-Midi-Fx-branchages-Multi-Random-generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-branchages-Multi-Random-generator) | Sequenceur de batterie probabiliste multi-lane |
+| [Schwung-Midi-Fx-Grilles-topographic-generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Grilles-topographic-generator) | Generateur de patterns batterie type Grids avec morphing |
+| [Schwung-Midi-Fx-Sting64-Acid-inspired-generative](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Sting64-Acid-inspired-generative) | Generateur generatif inspire de l'acid |
+| [Schwung-Midi-Fx-nRettap-Euclidean-melody-generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-nRettap-Euclidean-melody-generator) | Generateur melodique euclidien avec quantisation de gamme |
+| [Schwung-Midi-Fx-MarkovGroove-A-Tiny-Markov-Engine](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-MarkovGroove-A-Tiny-Markov-Engine) | Moteur Markov pour phrases melodiques evolutives (AGPL v3) |
+| [Schwung-Midi-Fx-Brindille-Bernouli-Gate](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Brindille-Bernouli-Gate) | Module probabiliste inspire du Bernoulli gate |
+| [Schwung-Midi-Fx-marbles-for-move](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-marbles-for-move) | Generateur probabiliste inspire de Marbles |
+| [SKILLS-SCHWUNG-MIDI-FX](https://github.com/broduoliviercontact-web/SKILLS-SCHWUNG-MIDI-FX) | Kit de travail, documentation et structure de build |
+| [codex-skill-for-midi-fx-schwung](https://github.com/broduoliviercontact-web/codex-skill-for-midi-fx-schwung) | Skill Codex pour la generation assistee de modules MIDI FX |
 
-- [`Niven-Jazz`](https://github.com/broduoliviercontact-web/Niven-Jazz)  
-  Processeur automatisé pour archives audio de cassettes : téléchargement, découpage par silences, renommage intelligent, organisation des fichiers et optimisation du stockage.
+## Split-Flap Displays
 
----
+Compteurs mecaniques virtuels deployes sur here.now. Chiffres publics en temps reel,
+thematiques societales, cliquetis de clapet via Web Audio API.
 
-### Web créatif
+| Repo | Thematique | Chiffre | Deploy here.now |
+|------|------------|---------|-----------------|
+| [split-flap-counter](https://github.com/broduoliviercontact-web/split-flap-counter) | Violences sexuelles enregistrees en France | 132300 | mineral-onyx |
+| [split-flap-guns](https://github.com/broduoliviercontact-web/split-flap-guns) | Victimes par armes a feu | 48117 | calm-sonnet |
+| [split-flap-hunger](https://github.com/broduoliviercontact-web/split-flap-hunger) | Personnes en insecurite alimentaire | 9M | ground-acorn |
+|| [split-flap-minors](https://github.com/broduoliviercontact-web/split-flap-minors) | Mineurs decedes en France | 76200 | fierce-ritual |
 
-- [`meteo-news`](https://github.com/broduoliviercontact-web/meteo-news)  
-  Agrégateur RSS façon bandeau d’info télévisé, orienté lisibilité, rapidité, filtrage et sélection des chaînes.
+Landing page collective : misty-anvil.
 
-- [`genre-gen`](https://github.com/broduoliviercontact-web/genre-gen)  
-  Petit laboratoire visuel : génération aléatoire de genres musicaux, typos expressives, animations CSS et fonds dynamiques.
+## Web, donnees & archives
 
-- [`marvel-pokedex`](https://github.com/broduoliviercontact-web/marvel-pokedex)  
-  Application web pour explorer, rechercher et sauvegarder des personnages Marvel, dans une logique d’interface fluide et pédagogique.
-
----
+| Repo | Description |
+|------|-------------|
+| [listes-partagees](https://github.com/broduoliviercontact-web/listes-partagees) | App de courses partagees avec Supabase |
+| [metableton](https://github.com/broduoliviercontact-web/metableton) | Site de veille musicale et techno-creative |
+| [todo-vacances](https://github.com/broduoliviercontact-web/todo-vacances) | Checklist interactive pour preparer les departs |
+| [meteo-news](https://github.com/broduoliviercontact-web/meteo-news) | Agregateur RSS facon bandeau d'info televise |
+| [genre-gen](https://github.com/broduoliviercontact-web/genre-gen) | Generateur aleatoire de genres musicaux, typos expressives, animations CSS |
+| [marvel-pokedex](https://github.com/broduoliviercontact-web/marvel-pokedex) | Exploration de personnages Marvel, logique d'interface fluide |
+| [jazz-digitizer](https://github.com/broduoliviercontact-web/jazz-digitizer) | Numerisation et traitement de cassettes jazz (Node.js) |
+| [Niven-Jazz](https://github.com/broduoliviercontact-web/Niven-Jazz) | Processeur automatise pour archives audio de cassettes |
+| [WEATHER_TEST_MAX_OSC](https://github.com/broduoliviercontact-web/WEATHER_TEST_MAX_OSC) | Donnees meteo OpenWeather vers OSC vers Max/MSP |
+| [aria-back](https://github.com/broduoliviercontact-web/aria-back) / [test-aria](https://github.com/broduoliviercontact-web/test-aria) | Fiches de personnage pour le jeu de role Aria |
+| [zuber](https://github.com/broduoliviercontact-web/zuber) | — |
 
 ## Projets en ligne
 
-- **Aria Sheet** — fiches de personnage pour le jeu de rôle Aria  
-- **Marvel Exploreur** — exploration de l’univers Marvel  
-- **Meteo Newz** — flux d’info en mode ticker  
-- **Genrenator** — générateur aléatoire de styles musicaux  
+- Aria Sheet — fiches de personnage pour Aria
+- Marvel Exploreur — exploration de l'univers Marvel
+- Meteo Newz — flux d'info en mode ticker
+- Genrenator — generateur aleatoire de styles musicaux
+- Les split-flaps — compteurs mecaniques virtuels
 
 ---
 
-## Ce que j’aime construire
+## Stack & terrain de jeu
 
-- des outils simples qui produisent des résultats musicaux intéressants
-- des interfaces rapides et lisibles
-- des systèmes génératifs avec une vraie personnalité
-- des ponts entre code, audio, web et instruments
+- **Web** : HTML, CSS, JavaScript, Vite, Node.js, Supabase
+- **Audio / musique** : Ableton Live, Max/MSP, OSC, MIDI, synthese
+- **Hardware** : Ableton Move, logique modulaire, sequenceurs probabilistes
+- **Deploiement** : here.now
+- **Workflow** : Git, GitHub
 
----
+## Ce que j'aime construire
 
-## Stack / terrain de jeu
+- Des outils simples qui produisent des resultats musicaux interessants
+- Des interfaces rapides et lisibles
+- Des systemes generatifs avec une vraie personnalite
+- Des ponts entre code, audio, web et instruments
 
-- **Web** : HTML, CSS, JavaScript, Vite, Node.js
-- **Audio / musique** : Ableton Live, Max/MSP, OSC, MIDI, synthèse, workflows créatifs
-- **Hardware / expérimentation** : Ableton Move, logique modulaire, séquenceurs probabilistes
-- **Workflow** : Git, GitHub, Netlify
+## En ce moment j'explore
 
----
-
-## En ce moment j’explore
-
-- la traduction d’idées Eurorack vers des modules **MIDI-first**
-- les systèmes génératifs orientés performance
-- la sonification de données réelles
-- les outils créatifs compacts, lisibles et robustes
+- La traduction d'idees Eurorack vers des modules MIDI-first
+- Les systemes generatifs orientes performance
+- La sonification de donnees reelles
+- Les outils creatifs compacts, lisibles et robustes
 
 ---
 
 ## Contact
 
-- GitHub : https://github.com/broduoliviercontact-web
+- GitHub : [broduoliviercontact-web](https://github.com/broduoliviercontact-web)
