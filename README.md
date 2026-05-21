@@ -41,10 +41,11 @@ thematiques societales, cliquetis de clapet via Web Audio API.
 
 | Repo | Thematique | Chiffre | Deploy here.now |
 |------|------------|---------|-----------------|
-| [split-flap-counter](https://github.com/broduoliviercontact-web/split-flap-counter) | Violences sexuelles enregistrees en France | 132300 | mineral-onyx |
-| [split-flap-guns](https://github.com/broduoliviercontact-web/split-flap-guns) | Victimes par armes a feu | 48117 | calm-sonnet |
-| [split-flap-hunger](https://github.com/broduoliviercontact-web/split-flap-hunger) | Personnes en insecurite alimentaire | 9M | ground-acorn |
-| [split-flap-minors](https://github.com/broduoliviercontact-web/split-flap-minors) | Mineurs decedes en France | 76200 | fierce-ritual |
+| [split-flap-counter](https://github.com/broduoliviercontact-web/split-flap-counter) | Violences sexuelles enregistrees en France | 132300 | [mineral-onyx-6zxa](https://mineral-onyx-6zxa.here.now/) |
+| [split-flap-guns](https://github.com/broduoliviercontact-web/split-flap-guns) | Victimes par armes a feu (USA) | 48117 | [calm-sonnet-exty](https://calm-sonnet-exty.here.now/) |
+| [split-flap-hunger](https://github.com/broduoliviercontact-web/split-flap-hunger) | Personnes en insecurite alimentaire | 9M | [ground-acorn-fdjs](https://ground-acorn-fdjs.here.now/) |
+| [split-flap-minors](https://github.com/broduoliviercontact-web/split-flap-minors) | Mineurs victimes de violences sexuelles | 76200 | [fierce-ritual-dswc](https://fierce-ritual-dswc.here.now/) |
+| [split-flap-police](https://github.com/broduoliviercontact-web/split-flap-police) | Deces lies aux forces de l'ordre | 52 | [merry-karma-zhvg](https://merry-karma-zhvg.here.now/) |
 
 Landing page collective : misty-anvil.
 
