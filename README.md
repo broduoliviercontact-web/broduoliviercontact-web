@@ -1,104 +1,166 @@
-# Salut, moi c'est Olivier
+<p align="center">
+  <img src="assets/banner.svg" alt="Olivier Brodu — développeur web full-stack et creative technologist" width="100%">
+</p>
 
-Intermittent du spectacle depuis 2018. Musicien, bidouilleur audio, developpeur creatif.
-Je construis des outils web, des experiences interactives et des modules MIDI generatifs,
-avec un gout prononce pour Ableton, les systemes modulaires, les interfaces simples et les
-idees musicales transformees en code.
+<p align="center">
+  <a href="https://www.linkedin.com/in/olivier-brodu-60370ab7/">LinkedIn</a>
+  ·
+  <a href="https://github.com/broduoliviercontact-web?tab=repositories">Tous mes dépôts</a>
+  ·
+  <strong>Disponible pour une alternance</strong>
+</p>
 
----
+## Bonjour, moi c'est Olivier 👋
 
-## En ce moment
+Je suis **développeur web full-stack junior**, formé au **Réacteur**, et je recherche une alternance en Île-de-France.
 
-- Modules MIDI FX generatifs pour Ableton Move via l'ecosysteme Schwung (C)
-- Compteurs split-flap deployes sur here.now, thematiques societales, Web Audio API
-- Outils web concrets : courses partagees, veille musicale, meteo
+Avant le développement, j'ai travaillé comme ingénieur du son, musicien et formateur en musique électronique. Aujourd'hui, je transforme cette expérience en produits numériques : applications React, API Node.js, données temps réel, outils Web Audio/MIDI et interfaces reliées à du hardware.
 
----
+> Mon profil réunit développement web, sens du produit, autonomie et expertise audio — avec une vraie envie d'apprendre au sein d'une équipe.
 
-## Ecosysteme Schwung MIDI FX
+### Stack principale
 
-Collection de plugins MIDI generatifs pour Ableton Move, ecrits en C.
-Inspiration : Eurorack (Mutable Instruments), IDM, sequenceurs probabilistes.
+`React` · `TypeScript` · `JavaScript` · `Node.js` · `Express` · `Next/Vinext` · `Astro` · `Supabase/PostgreSQL` · `Tailwind CSS` · `Git/GitHub`
 
-| Repo | Description |
-|------|-------------|
-| [Schwung-Midi-Fx-Acid-Gen-Acid-Pattern-Generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Acid-Gen-Acid-Pattern-Generator) | Generateur de patterns acid |
-| [DOOM-FOR-SCHWUNG](https://github.com/broduoliviercontact-web/DOOM-FOR-SCHWUNG) | Portage adapte de DOOM pour Schwung |
-| [Schwung-Midi-Fx-branchages-Multi-Random-generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-branchages-Multi-Random-generator) | Sequenceur de batterie probabiliste multi-lane |
-| [Schwung-Midi-Fx-Grilles-topographic-generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Grilles-topographic-generator) | Generateur de patterns batterie type Grids avec morphing |
-| [Schwung-Midi-Fx-Sting64-Acid-inspired-generative](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Sting64-Acid-inspired-generative) | Generateur generatif inspire de l'acid |
-| [Schwung-Midi-Fx-nRettap-Euclidean-melody-generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-nRettap-Euclidean-melody-generator) | Generateur melodique euclidien avec quantisation de gamme |
-| [Schwung-Midi-Fx-MarkovGroove-A-Tiny-Markov-Engine](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-MarkovGroove-A-Tiny-Markov-Engine) | Moteur Markov pour phrases melodiques evolutives (AGPL v3) |
-| [Schwung-Midi-Fx-Brindille-Bernouli-Gate](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Brindille-Bernouli-Gate) | Module probabiliste inspire du Bernoulli gate |
-| [Schwung-Midi-Fx-marbles-for-move](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-marbles-for-move) | Generateur probabiliste inspire de Marbles |
-| [SKILLS-SCHWUNG-MIDI-FX](https://github.com/broduoliviercontact-web/SKILLS-SCHWUNG-MIDI-FX) | Kit de travail, documentation et structure de build |
-| [codex-skill-for-midi-fx-schwung](https://github.com/broduoliviercontact-web/codex-skill-for-midi-fx-schwung) | Skill Codex pour la generation assistee de modules MIDI FX |
+### Aussi dans ma boîte à outils
 
-## Split-Flap Displays
-
-Compteurs mecaniques virtuels deployes sur here.now. Chiffres publics en temps reel,
-thematiques societales, cliquetis de clapet via Web Audio API.
-
-| Repo | Thematique | Chiffre | Deploy here.now |
-|------|------------|---------|-----------------|
-| [split-flap-counter](https://github.com/broduoliviercontact-web/split-flap-counter) | Violences sexuelles enregistrees en France | 132300 | [mineral-onyx-6zxa](https://mineral-onyx-6zxa.here.now/) |
-| [split-flap-guns](https://github.com/broduoliviercontact-web/split-flap-guns) | Victimes par armes a feu (USA) | 48117 | [calm-sonnet-exty](https://calm-sonnet-exty.here.now/) |
-| [split-flap-hunger](https://github.com/broduoliviercontact-web/split-flap-hunger) | Personnes en insecurite alimentaire | 9M | [ground-acorn-fdjs](https://ground-acorn-fdjs.here.now/) |
-| [split-flap-minors](https://github.com/broduoliviercontact-web/split-flap-minors) | Mineurs victimes de violences sexuelles | 76200 | [fierce-ritual-dswc](https://fierce-ritual-dswc.here.now/) |
-| [split-flap-police](https://github.com/broduoliviercontact-web/split-flap-police) | Deces lies aux forces de l'ordre | 52 | [merry-karma-zhvg](https://merry-karma-zhvg.here.now/) |
-
-Landing page collective : misty-anvil.
-
-## Web, donnees & archives
-
-| Repo | Description |
-|------|-------------|
-| [listes-partagees](https://github.com/broduoliviercontact-web/listes-partagees) | App de courses partagees avec Supabase |
-| [metableton](https://github.com/broduoliviercontact-web/metableton) | Site de veille musicale et techno-creative |
-| [todo-vacances](https://github.com/broduoliviercontact-web/todo-vacances) | Checklist interactive pour preparer les departs |
-| [meteo-news](https://github.com/broduoliviercontact-web/meteo-news) | Agregateur RSS facon bandeau d'info televise |
-| [genre-gen](https://github.com/broduoliviercontact-web/genre-gen) | Generateur aleatoire de genres musicaux, typos expressives, animations CSS |
-| [marvel-pokedex](https://github.com/broduoliviercontact-web/marvel-pokedex) | Exploration de personnages Marvel, logique d'interface fluide |
-| [jazz-digitizer](https://github.com/broduoliviercontact-web/jazz-digitizer) | Numerisation et traitement de cassettes jazz (Node.js) |
-| [Niven-Jazz](https://github.com/broduoliviercontact-web/Niven-Jazz) | Processeur automatise pour archives audio de cassettes |
-| [WEATHER_TEST_MAX_OSC](https://github.com/broduoliviercontact-web/WEATHER_TEST_MAX_OSC) | Donnees meteo OpenWeather vers OSC vers Max/MSP |
-| [aria-back](https://github.com/broduoliviercontact-web/aria-back) / [test-aria](https://github.com/broduoliviercontact-web/test-aria) | Fiches de personnage pour le jeu de role Aria |
-| [zuber](https://github.com/broduoliviercontact-web/zuber) | — |
-
-## Projets en ligne
-
-- Aria Sheet — fiches de personnage pour Aria
-- Marvel Exploreur — exploration de l'univers Marvel
-- Meteo Newz — flux d'info en mode ticker
-- Genrenator — generateur aleatoire de styles musicaux
-- Les split-flaps — compteurs mecaniques virtuels
+`Web Audio API` · `Web MIDI` · `Socket.IO` · `WebRTC/LiveKit` · `OAuth 2.0` · `REST API` · `Docker` · `PlatformIO/ESP32` · `Max/MSP` · `Ableton Live SDK` · `Godot`
 
 ---
 
-## Stack & terrain de jeu
+## Projets à découvrir
 
-- **Web** : HTML, CSS, JavaScript, Vite, Node.js, Supabase
-- **Audio / musique** : Ableton Live, Max/MSP, OSC, MIDI, synthese
-- **Hardware** : Ableton Move, logique modulaire, sequenceurs probabilistes
-- **Deploiement** : here.now
-- **Workflow** : Git, GitHub
-
-## Ce que j'aime construire
-
-- Des outils simples qui produisent des resultats musicaux interessants
-- Des interfaces rapides et lisibles
-- Des systemes generatifs avec une vraie personnalite
-- Des ponts entre code, audio, web et instruments
-
-## En ce moment j'explore
-
-- La traduction d'idees Eurorack vers des modules MIDI-first
-- Les systemes generatifs orientes performance
-- La sonification de donnees reelles
-- Les outils creatifs compacts, lisibles et robustes
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/broduoliviercontact-web/liste-frigo"><img src="assets/supervie-access.jpg" alt="Supervie, liste de courses pour écran e-paper" width="100%"></a>
+      <h3>🧊 Supervie — écran familial connecté</h3>
+      <p>Application de listes partagées pensée pour un écran e-paper tactile fixé sur un réfrigérateur. Synchronisation web/hardware, météo, transports et interface adaptée aux contraintes de l'e-paper.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Cloudflare D1</code> <code>ESP32</code> <code>PlatformIO</code></p>
+      <p><a href="https://github.com/broduoliviercontact-web/liste-frigo">Code source</a> · <a href="https://liste-frigo.pliskain.chatgpt.site">Démo protégée</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://metableton-ecole.vercel.app"><img src="assets/metableton-ecole.jpg" alt="Page d'accueil de Metableton École" width="100%"></a>
+      <h3>🎓 Metableton École</h3>
+      <p>Portail d'école de musique en ligne connecté à Google Classroom : authentification Google, rôles élève/professeur/admin, catalogue, inscriptions et base PostgreSQL.</p>
+      <p><code>React 19</code> <code>Express 5</code> <code>Supabase</code> <code>OAuth 2.0</code> <code>Tailwind</code></p>
+      <p><a href="https://github.com/broduoliviercontact-web/metableton-ecole">Code source</a> · <a href="https://metableton-ecole.vercel.app">Voir le site</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://ableton-blackhole-radio.vercel.app"><img src="assets/blackhole-radio.jpg" alt="Interface Radio Blackhole" width="100%"></a>
+      <h3>📻 Radio Blackhole</h3>
+      <p>Diffusion live d'une entrée audio Mac vers le web. Espace performer protégé, écoute publique, messages synchronisés et six visualisations audio temps réel dans le navigateur.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Express</code> <code>WebRTC</code> <code>LiveKit</code></p>
+      <p><a href="https://github.com/broduoliviercontact-web/ableton-blackhole-radio">Code source</a> · <a href="https://ableton-blackhole-radio.vercel.app">Écouter</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://metableton-v2.vercel.app"><img src="assets/metableton-v2.jpg" alt="Site éditorial Metableton" width="100%"></a>
+      <h3>📰 Metableton</h3>
+      <p>Magazine et base de connaissances dédiés à Ableton et à la création musicale. Contenu MDX, taxonomie éditoriale, moteur de recherche, chronologie et back-office.</p>
+      <p><code>Astro</code> <code>MDX</code> <code>TypeScript</code> <code>Responsive UI</code></p>
+      <p><a href="https://github.com/broduoliviercontact-web/metableton-v2">Code source</a> · <a href="https://metableton-v2.vercel.app">Voir le site</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://vast-maple-qf7x.here.now"><img src="assets/listes-partagees.jpg" alt="Accueil de l'application Listes Partagées" width="100%"></a>
+      <h3>🛒 Listes Partagées</h3>
+      <p>Listes de courses collaboratives sans inscription : code de partage, sous-listes, suggestions, emojis automatiques et synchronisation instantanée.</p>
+      <p><code>JavaScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Realtime</code> <code>RLS</code></p>
+      <p><a href="https://github.com/broduoliviercontact-web/listes-partagees">Code source</a> · <a href="https://vast-maple-qf7x.here.now">Essayer</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://genrenarator.netlify.app"><img src="assets/genrenator.jpg" alt="Générateur de genres musicaux Genrenator" width="100%"></a>
+      <h3>🎲 Genrenator</h3>
+      <p>Expérience générative qui combine une API de genres musicaux avec une collection d'animations, de typographies et de décors CSS aléatoires.</p>
+      <p><code>React</code> <code>REST API</code> <code>CSS animations</code> <code>Netlify</code></p>
+      <p><a href="https://github.com/broduoliviercontact-web/genre-gen">Code source</a> · <a href="https://genrenarator.netlify.app">Essayer</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/broduoliviercontact-web/ableton-scripte-arborescence"><img src="https://raw.githubusercontent.com/broduoliviercontact-web/ableton-scripte-arborescence/main/exports/session-map-git.svg" alt="Visualisation d'une session Ableton Live" width="100%"></a>
+      <h3>🗺️ Ableton Session Mapper</h3>
+      <p>Extension qui analyse un Live Set et l'exporte en JSON, rapports HTML et cartes visuelles. Une passerelle complète entre SDK, modèle de données et visualisation.</p>
+      <p><code>TypeScript</code> <code>Node.js</code> <code>Ableton SDK</code> <code>Mermaid</code></p>
+      <p><a href="https://github.com/broduoliviercontact-web/ableton-scripte-arborescence">Voir le projet</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/broduoliviercontact-web/CCB-TEMPLATE"><img src="https://raw.githubusercontent.com/broduoliviercontact-web/CCB-TEMPLATE/main/readme-assets/ccb-template-hero.svg" alt="CCB Template, orchestration multi-agents" width="100%"></a>
+      <h3>🤖 CCB Template</h3>
+      <p>CLI et template pour initialiser des projets assistés par plusieurs agents IA, avec rôles, mémoire durable, validation, documentation et suivi de consommation.</p>
+      <p><code>Shell</code> <code>Python</code> <code>CLI</code> <code>CI GitHub</code> <code>Documentation</code></p>
+      <p><a href="https://github.com/broduoliviercontact-web/CCB-TEMPLATE">Voir le projet</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Contact
+## Tous mes projets
 
-- GitHub : [broduoliviercontact-web](https://github.com/broduoliviercontact-web)
+### Applications web & produits full-stack
+
+- [FM Live Wire](https://github.com/broduoliviercontact-web/FM-Live-Wire) — transmission MIDI temps réel performer → auditeurs avec Socket.IO et synthèse FM locale.
+- [Metableton École](https://github.com/broduoliviercontact-web/metableton-ecole) — plateforme pédagogique React/Express/Supabase/Google Classroom.
+- [Metableton V2](https://github.com/broduoliviercontact-web/metableton-v2) et [Metableton V1](https://github.com/broduoliviercontact-web/metableton) — média et ressources autour de la production musicale.
+- [Radio Blackhole](https://github.com/broduoliviercontact-web/ableton-blackhole-radio) — broadcast WebRTC et visualisations audio temps réel.
+- [Supervie](https://github.com/broduoliviercontact-web/liste-frigo) et [Listes Partagées](https://github.com/broduoliviercontact-web/listes-partagees) — deux approches d'une application familiale synchronisée.
+- [Collab Hub Web Monitor](https://github.com/broduoliviercontact-web/collab-hub-web-monitor) et [CH Web Monitor Spike](https://github.com/broduoliviercontact-web/ch-web-monitor-spike) — exploration d'un moniteur de collaboration web.
+
+### Audio, MIDI & outils créatifs
+
+- [Ableton Session Mapper](https://github.com/broduoliviercontact-web/ableton-scripte-arborescence) — cartographie et visualisation de sessions Ableton Live.
+- [MIDI SNIFF](https://github.com/broduoliviercontact-web/MIDI-SNIFF) — capture MIDI, création de profils et génération de Remote Scripts Ableton.
+- [M4L Remote Mapper](https://github.com/broduoliviercontact-web/m4l-remote-mapper) et [Ableton Device Mapper](https://github.com/broduoliviercontact-web/ableton-device-mapper) — outils de mapping de contrôleurs et devices.
+- [BMAD Max/RNBO](https://github.com/broduoliviercontact-web/bmad-max-rnbo) — workflow de conception pour Max et RNBO.
+- [Weather → OSC → Max](https://github.com/broduoliviercontact-web/WEATHER_TEST_MAX_OSC) — transformation de données météo en contrôle musical.
+- [UVG DM Screen](https://github.com/broduoliviercontact-web/uvg-dm-screen) — interface web dédiée à un dispositif musical.
+- [Jazz Digitizer](https://github.com/broduoliviercontact-web/jazz-digitizer) et [Niven Jazz](https://github.com/broduoliviercontact-web/Niven-Jazz) — automatisation de la numérisation et du traitement d'archives sur cassette.
+
+### Écosystème Schwung — générateurs MIDI en C
+
+- [Grilles Topographic Generator](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Grilles-topographic-generator)
+- [Branchages Multi-Random](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-branchages-Multi-Random-generator)
+- [Marbles for Move](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-marbles-for-move)
+- [Brindille Bernoulli Gate](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Brindille-Bernouli-Gate)
+- [nRettap Euclidean Melody](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-nRettap-Euclidean-melody-generator)
+- [MarkovGroove](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-MarkovGroove-A-Tiny-Markov-Engine)
+- [Sting64](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Sting64-Acid-inspired-generative)
+- [Acid Gen](https://github.com/broduoliviercontact-web/Schwung-Midi-Fx-Acid-Gen-Acid-Pattern-Generator)
+- [DOOM for Schwung](https://github.com/broduoliviercontact-web/DOOM-FOR-SCHWUNG)
+- [Skills Schwung](https://github.com/broduoliviercontact-web/SKILLS-SCHWUNG-MIDI-FX) et [skill Codex](https://github.com/broduoliviercontact-web/codex-skill-for-midi-fx-schwung) — documentation et automatisation du workflow.
+
+### Interfaces, données & projets pédagogiques
+
+- [Marvel Pokédex](https://github.com/broduoliviercontact-web/marvel-pokedex), [API Marvel](https://github.com/broduoliviercontact-web/backend-marvel) et [Pokédex V1](https://github.com/broduoliviercontact-web/Pokedex_V1) — consommation d'API, recherche, favoris et UI responsive.
+- [Aria Front](https://github.com/broduoliviercontact-web/test-aria) et [Aria Back](https://github.com/broduoliviercontact-web/aria-back) — fiches de personnages et outils pour jeu de rôle.
+- [Genrenator](https://github.com/broduoliviercontact-web/genre-gen) — générateur musical et laboratoire d'animations CSS.
+- [Météo News](https://github.com/broduoliviercontact-web/meteo-news) — agrégateur RSS présenté comme un bandeau d'information.
+- [Todo Vacances](https://github.com/broduoliviercontact-web/todo-vacances) — checklist interactive pour préparer un départ.
+
+### Visualisations & expérimentations
+
+- Série Split-Flap : [Counter](https://github.com/broduoliviercontact-web/split-flap-counter), [Guns](https://github.com/broduoliviercontact-web/split-flap-guns), [Hunger](https://github.com/broduoliviercontact-web/split-flap-hunger), [Minors](https://github.com/broduoliviercontact-web/split-flap-minors), [Police](https://github.com/broduoliviercontact-web/split-flap-police), [Demo](https://github.com/broduoliviercontact-web/split-flap-demo) et [Template](https://github.com/broduoliviercontact-web/flip-flap-template).
+- [Backline Hero](https://github.com/broduoliviercontact-web/backlin-hero) — prototype Godot inspiré d'Overcooked autour de la logistique de concert.
+- [CCB Template](https://github.com/broduoliviercontact-web/CCB-TEMPLATE) et [Genre Token Test](https://github.com/broduoliviercontact-web/genre-token-test) — expérimentation autour des workflows IA et de l'optimisation de contexte.
+- [Synthpedia](https://github.com/broduoliviercontact-web/Synthpedia) — encyclopédie et frise chronologique des synthétiseurs, **en construction**.
+
+---
+
+## Ce que je peux apporter à une équipe
+
+- Une pratique concrète du **front et du back**, de la maquette au déploiement.
+- L'habitude de construire des projets complets : authentification, API, base de données, temps réel, tests et documentation.
+- Une culture de l'interface issue de la musique : écoute, itération, contraintes de performance et attention portée à l'expérience utilisateur.
+- Un regard transversal capable de relier **logiciel, audio, données et objets physiques**.
+
+## Ce que je recherche
+
+Une **alternance en développement web full-stack**, à Paris, Pantin ou en mode hybride, dans une équipe où je pourrai consolider mes bases, contribuer à de vrais produits et continuer à progresser.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/olivier-brodu-60370ab7/"><strong>Me contacter sur LinkedIn</strong></a>
+</p>
